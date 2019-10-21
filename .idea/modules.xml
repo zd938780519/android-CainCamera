@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CainCamera-master.iml" filepath="$PROJECT_DIR$/CainCamera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameralibrary/cameralibrary.iml" filepath="$PROJECT_DIR$/cameralibrary/cameralibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facedetectlibrary/facedetectlibrary.iml" filepath="$PROJECT_DIR$/facedetectlibrary/facedetectlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterlibrary/filterlibrary.iml" filepath="$PROJECT_DIR$/filterlibrary/filterlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdxlibrary/gdxlibrary.iml" filepath="$PROJECT_DIR$/gdxlibrary/gdxlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagelibrary/imagelibrary.iml" filepath="$PROJECT_DIR$/imagelibrary/imagelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/landmarklibrary/landmarklibrary.iml" filepath="$PROJECT_DIR$/landmarklibrary/landmarklibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medialibrary/medialibrary.iml" filepath="$PROJECT_DIR$/medialibrary/medialibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanlibrary/scanlibrary.iml" filepath="$PROJECT_DIR$/scanlibrary/scanlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilslibrary/utilslibrary.iml" filepath="$PROJECT_DIR$/utilslibrary/utilslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videolibrary/videolibrary.iml" filepath="$PROJECT_DIR$/videolibrary/videolibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgetlibrary/widgetlibrary.iml" filepath="$PROJECT_DIR$/widgetlibrary/widgetlibrary.iml" />
+    </modules>
+  </component>
+</project>
